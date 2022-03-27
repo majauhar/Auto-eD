@@ -52,8 +52,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Auto-eD'
-copyright = '2019, Lindsey Brown and David Sondak'
-author = 'Lindsey Brown and David Sondak'
+copyright = '2020, Lindsey Brown, Rachel Moon, and David Sondak'
+author = 'Lindsey Brown, Rachel Moon, and David Sondak'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -139,7 +139,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ADVisualization.tex', 'AD Visualization Documentation',
-     'Lindsey Brown and David Sondak', 'manual'),
+     'Lindsey Brown, Rachel Moon, and David Sondak', 'manual'),
 ]
 
 

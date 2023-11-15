@@ -161,7 +161,7 @@ Auto-eD Web Application
 ^^^^^^^^^^^^^^^^^^^^^^^
 The tool can be accessed directly through a web browser:
 
-https://autoed.herokuapp.com
+https://autoed.onrender.com/
 
 This option is good for people who want to explore automatic differentiation.
 

@@ -104,7 +104,7 @@ html_static_path = ['_static']
 html_css_files = ['s4defs-roles.css']
 
 def setup(app):
-  app.add_stylesheet("s4defs-roles.css")
+  app.add_css_file("s4defs-roles.css")
 
 
 

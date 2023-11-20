@@ -56,7 +56,7 @@ web application based on this software.
 This unit provides content for students at three different levels of experience.  Advanced students, familiar with both coding
 and automatic differentiation, may use the `Auto-eD` package as described in Auto-eD Visualization Software.  Students who have
 learned the principles behind automatic differentiation but are less comfortable with coding can test and enhance their understanding 
-by using the [web application](https://autoed.herokuapp.com) as described in Web Application.  Students who are new to automatic 
+by using the [web application](https://autoed.onrender.com) as described in Web Application.  Students who are new to automatic 
 differentiation and want to learn this concept should work through the automatic differentiation unit (available on 
 [Read the Docs](https://auto-ed.readthedocs.io/en/latest)), which includes excerises and tutorials using the web application, as 
 described in Accompanying Automatic Differentiation Unit.
@@ -86,7 +86,7 @@ highlighted with a bold, yellow arrow.
 
 
 For ease of instructional use for students less familiar with Python and coding, `Auto-eD` is available as a [web
-application](https://autoed.herokuapp.com). If the web application is slow to load, it can alternatively be run locally by
+application](https://autoed.onrender.com). If the web application is slow to load, it can alternatively be run locally by
 downloading the code from Github and launching `ADapp.py` from the command line. To make sure this final option is still
 accessible to students with limited coding experience, the code documentation, contained in `DeveloperDocumentation.ipynb`
 provides detailed steps on how to launch locally.

@@ -173,7 +173,7 @@ node in the table is the output of an elmentary function, whose derivative we ca
           - 4
         * - :math:`v_4`
           - :math:`-2v_3`
-          - 1
+          - -1
           - :math:`-2\dot{v_3}`
           - -8
         * - :math:`v_5`
